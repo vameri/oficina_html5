@@ -1,0 +1,13 @@
+@import url("reset.css");
+
+/* Novos elementos HTML5 */
+
+article, aside, figure, footer, header, hgroup, nav, section { 
+	display:block; 
+}
+
+/* -------- */
+
+
+
+/* -------- */
